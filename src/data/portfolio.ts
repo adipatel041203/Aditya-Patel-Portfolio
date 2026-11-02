@@ -31,7 +31,7 @@ export const portfolioLinks = {
   github: 'https://github.com/adipatel041203',
   linkedin: 'https://www.linkedin.com/in/aditya-patel-514643237/',
   email: 'adityapatel8c@gmail.com',
-  resume: '/Aditya_Patel_Resume.pdf',
+  resume: '/Aditya-Patel-Resume.pdf',
   portrait: '/aditya_patel.webp',
 } as const
 
@@ -42,7 +42,30 @@ export const rotatingRoles = [
 ] as const
 
 export const experience: ExperienceItem[] = [
-  { role: 'Software Engineer Intern', organization: 'Wappzo Infonet Private Ltd.', location: 'Navsari, Gujarat', period: 'Jun 2026 – Present', summary: 'Provide hands-on technical support to keep workplace devices, software, and network access dependable.', highlights: ['Install, configure, and maintain desktop hardware and software', 'Diagnose operating system, device, and network issues and help restore service', 'Assist with network setup, troubleshooting, and routine system maintenance'], skills: ['IT support', 'Hardware & software', 'OS troubleshooting', 'Networking'] },
+  {
+  role: 'Software Engineer Intern',
+  organization: 'Wappzo Infonet Private Ltd.',
+  location: 'Navsari, Gujarat',
+  period: 'Jun 2026 – Present',
+  summary: 'Contribute to software and web development projects while gaining hands-on experience in data analysis, database management, and business intelligence.',
+  highlights: [
+    'Develop and maintain responsive web applications using React and TypeScript, focusing on reusable components and user-friendly interfaces',
+    'Assist in software development activities, including implementing application features, debugging, and improving existing functionality',
+    'Perform data analysis using Excel and Power BI to explore datasets, identify trends, and generate meaningful insights',
+    'Write SQL queries to retrieve, manage, and analyze structured data for application and reporting requirements',
+    'Support database management and reporting activities as part of software development and analytical workflows'
+  ],
+  skills: [
+    'React',
+    'TypeScript',
+    'Software Development',
+    'Web Development',
+    'SQL',
+    'Excel',
+    'Power BI',
+    'Data Analysis'
+  ]
+},
   { role: 'Frontend Developer Intern', organization: 'Tech-Fusion Technologies', location: 'Navsari, Gujarat', period: 'Dec 2025', summary: 'Developed responsive web interfaces using React and core frontend technologies.', highlights: ['Built responsive user interfaces with HTML, CSS, JavaScript, and React', 'Applied component-based patterns, props, state, and event handling'], skills: ['HTML', 'CSS', 'JavaScript', 'React', 'Responsive UI'] },
 ]
 

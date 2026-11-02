@@ -134,7 +134,9 @@ For GitHub Pages deployments from a repository subpath, configure Vite's `base` 
 
 ```text
 public/
-  Resume, profile image, and project screenshots
+  Aditya-Patel-Resume.pdf  Current resume linked throughout the portfolio
+  aditya_patel.webp       Profile image
+  projects/               Project screenshots
 
 src/
   components/
