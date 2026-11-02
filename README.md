@@ -8,7 +8,7 @@ This portfolio showcases my data analytics projects, technical skills, professio
 
 ## 🌐 Portfolio Website
 
-**Live Website:** [Add your deployed portfolio URL]
+**Live Website:** https://aditya-patel-portfolio-tan.vercel.app/
 
 ## 🚀 Featured Projects
 
